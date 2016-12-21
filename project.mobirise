@@ -153,7 +153,7 @@
           },
           "title": "FACCIO",
           "text": "Al Insan",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MAILTO:organismo.anatocismi@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PERIZIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">RECUPERO</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"MAILTO:organismo.anatocismi@gmail.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">PERIZIA</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://anatocismi.com\" data-toolbar=\"-mbrBtnMove\">RECUPERO</a>"
         },
         {
           "_name": "footer1",
